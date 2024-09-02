@@ -1,5 +1,18 @@
 # Playwright Testing Lesson: Building a Pokémon Name Scraper
 
+## Introduction: Using Playwright to Collect Pokémon Names
+
+Playwright is a powerful tool for end-to-end testing. It allows us to step into a user’s shoes and simulate their experience when interacting with a web application. Whether you’re testing, scraping data, or automating tasks, Playwright provides the flexibility and precision needed for web development.
+
+Pokémon Name Collection: we’ll use Playwright to accomplish a specific mission, collecting the names of the original 151 Pokémon. Yes, those classic creatures from our childhood—the ones that sparked our imaginations and fueled countless battles on the playground. The new Pokémon? Well, they’re cool too, but for now, let’s focus on the OGs.
+
+The Challenge
+
+- Visit the Pokémon Database: The journey begins at https://pokemondb.net/pokedex/all. This comprehensive Pokédex contains information about every Pokémon species. We’ll scrape the names from here.
+- Mask Our Identity: Some websites don’t take kindly to data scraping. To avoid detection, we’ll use a random agent; a digital disguise that keeps our intentions hidden.
+- Collect and Store: Once we’ve gathered the Pokémon names, we’ll store them in an array. Why? Because arrays are like Poké Balls, they hold our precious data until we’re ready to unleash it.
+- Ready? Let’s Catch 'Em All! By the end of this lesson, you’ll have not only a working Playwright script but also a list of those iconic Pokémon names. So grab your Poké Balls (or, you know, your keyboard), and let’s get started!
+
 ## Ticket 1: Install Playwright with Chromium
 
 Set up Playwright with Chromium for browser automation.
