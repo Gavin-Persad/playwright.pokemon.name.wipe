@@ -1,0 +1,20 @@
+{
+  "name": "pokemon-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "playwright": "^1.46.1",
+    "random-useragent": "^0.5.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^20.8.9"
+  }
+}

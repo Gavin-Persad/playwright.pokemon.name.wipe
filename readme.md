@@ -78,3 +78,8 @@ Extend your scraper to collect additional Pokémon data (e.g., types, abilities,
 - Explore the Pokémon Database website to identify relevant elements.
 - Adapt your Playwright script to scrape more information.
 - Save this additional data alongside the names.
+
+ticket 1
+
+// run npm i to install all dependancies
+// have a look at the package json what and see what dependancies we are using.
