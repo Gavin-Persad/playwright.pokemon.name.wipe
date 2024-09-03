@@ -23,6 +23,8 @@ async function main() {
 		});
 		console.log('Screenshot saved as pokemon-screenshot.png');
 
+		// ADD YOUR CODE HERE
+
 		await browser.close();
 	} catch (error) {
 		console.error('An error occurred:', error);
