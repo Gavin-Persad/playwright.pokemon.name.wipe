@@ -101,3 +101,5 @@ Pokémon Name Collection: we’ll use Playwright to accomplish a specific missio
 3. Save Additional Data:
 
 - Save this extended data (beyond just names) in an appropriate format.
+
+4. Try changing the headless option on line 10. Change this from true to false and run the program.
